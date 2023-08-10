@@ -1,4 +1,4 @@
-// DSPD2-HW-Assignment-1: BT21CSE084,BT21CSE086
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
