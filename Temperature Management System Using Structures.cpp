@@ -1,6 +1,3 @@
-//DSPD ASSIGNMENT R4 BATCH 
-//ROLL .NO: BT21CSE084, BT21CSE086;
-//NAMES: LAGISHETTI VARSHITH, NIMMA SHYAM KIRAN
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
